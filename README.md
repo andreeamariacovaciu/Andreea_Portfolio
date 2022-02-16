@@ -12,12 +12,12 @@ For a better accuracy result I determined the best value for K neighbors trying 
 ![image](https://user-images.githubusercontent.com/86802852/152808843-2dcf2ed2-27ec-4111-9784-75a747fcb8d1.png)
 
 
-## [Project 2: Wine Quality](https://github.com/andreeamariacovaciu/RandomForest)
+## [Project 2: Wine Quality](https://github.com/andreeamariacovaciu/Wine-Quality)
 The purpose of this project is to classify the wine by its quality considering some features like alcohol, sulphates, volatile acidity, total sulfur dioxide and others.
 To do that I used the Random Forest Classifier algorithm from scikit-learn library.  
 For the model evaluation I used the accuracy score metrics. GridSearchCV helps evaluate all combinations of parameters I defined (n_estimators, max_depth and criterion) to find out the best ones, then I re-fitted the model with the new parameters, so the accuracy score increases.
 
-## [Project 3: Car price prediction](https://github.com/andreeamariacovaciu/projects-trial)
+## [Project 3: Car price prediction](https://github.com/andreeamariacovaciu/Car-price-prediction)
 
 This is a demo project which shows how Machine Learning Models are deployed on production using Flask API
 
