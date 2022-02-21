@@ -31,6 +31,11 @@ Then you should  be able to see the predicted car price on the HTML page!
 
 ![image](https://user-images.githubusercontent.com/86802852/152191089-fa42546c-3f47-4311-b2bc-68821c80e440.png)
 
-## Project 4: Work in progress...
+## [Project 4: Final energy consumption in transport by type of fuel in EU](https://github.com/andreeamariacovaciu/EU-Transportation-Fuel)  
+Final energy consumption in transport by type of fuel in EU
+This is a data analysis project for the Final energy consumption in transport by type of fuel in EU.  
+Data source: https://ec.europa.eu/eurostat/web/climate-change/data/database  
+Library used for plots: Plotly
+
 
 ## Hope to see you soon because new projects will come!
