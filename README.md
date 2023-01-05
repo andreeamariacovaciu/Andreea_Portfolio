@@ -2,7 +2,7 @@
 
 ## About me 
 Hi! My name is Andreea.  
-I am a data enthusiast who wants to change her career path.  
+I am a tech enthusiast who wants to learn more and devolep her skills.
 Please check below some projects I worked on.
 
 ## [Project 1: Who will purchase?](https://github.com/andreeamariacovaciu/Who-will-purchase)
