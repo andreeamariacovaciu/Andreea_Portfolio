@@ -37,5 +37,9 @@ This is a data analysis project for the Final energy consumption in transport by
 Data source: https://ec.europa.eu/eurostat/web/climate-change/data/database  
 Library used for plots: Plotly
 
+## [Project 5: Selenium] (https://github.com/andreeamariacovaciu/selenium-project)
+The purpose of this project is to collect data from web using Selenium and make predictions based on it.
+The data are collected from https://www.bvb.ro/FinancialInstruments/Details/FinancialInstrumentsDetails.aspx?s=m and they represent the price for Medlife stock. Predictions are made using an ARIMA (autoregressive integrated moving average) model. 
+
 
 ## Hope to see you soon because new projects will come!
